@@ -6,4 +6,4 @@ This month, I will first provide a brief and high level overview of the BART str
 
 - Data_Demo.R contains the code for the example walked through in the slides.
 
-- The 
+- The Simulation folder contains code which test BART under simulation.  The main file is Simulation.R
