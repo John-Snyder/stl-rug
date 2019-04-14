@@ -4,4 +4,6 @@ Bayesian Additive Regression Trees, or BART, is a highly flexible machine learni
 
 This month, I will first provide a brief and high level overview of the BART structure and how the model is fit. I will then thoroughly discuss and demonstrate the practical usage of the package applied to publicly available datasets. Finally, I will demonstrate and show the results of a simulation demonstrating BART's consistently superior predictive performance over many popular machine learning techniques such as random forests and gradient boosting.
 
-Data_Demo.R contains the code for the example walked through in the slides.
+- Data_Demo.R contains the code for the example walked through in the slides.
+
+- The 
